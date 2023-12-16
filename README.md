@@ -12,3 +12,4 @@ I will provide each day one or more algorithms, trying to increase the level of 
 ## [Day2b - Reverse array of size N](https://github.com/gabrieledore/DS-and-Algorithms-in-Java/blob/main/Day2b.java) -15/12/2023
 ## [Day3 - Check if an array of integers is sorted in a ascending order](https://github.com/gabrieledore/DS-and-Algorithms-in-Java/blob/main/Day3.java) -15/12/2023
 ## [Day3b - Check if an integer is a power of 2](https://github.com/gabrieledore/DS-and-Algorithms-in-Java/blob/main/Day3b.java) -15/12/2023
+## [Day4 - Find if a pair of an array is equal to a target integer](https://github.com/gabrieledore/DS-and-Algorithms-in-Java/blob/main/Day4.java) -16/12/2023
