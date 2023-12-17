@@ -11,7 +11,6 @@ public class Day5 {
 
     }
 
-    //Ask the n size of array to the user and generate n numbers randomly from 1 to 10000
     private static int[] generateArray(){
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter the size of the array");
