@@ -60,26 +60,3 @@ public class Day5 {
 
 
 
-
-
-
-// 1. Find the  n value in the middle m  of array
-// 2. Check if n == m and if yes, return true
-// 3. If n > m -> Array[m, length] and point 2 (of the new array)
-// 4. If n < m -> Array[0, m] and point 2 of the new array
-//
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
