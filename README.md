@@ -15,3 +15,4 @@ I will provide each day one or more algorithms, trying to increase the level of 
 ## [Day4 - Find if a pair of an array is equal to a target integer](https://github.com/gabrieledore/DS-and-Algorithms-in-Java/blob/main/Day4.java) -16/12/2023
 ## [Day5 - Search value n in a m size array through a binary search](https://github.com/gabrieledore/DS-and-Algorithms-in-Java/blob/main/Day5.java) -17/12/2023
 ## [Day6 - Sort a binary array](https://github.com/gabrieledore/DS-and-Algorithms-in-Java/blob/main/Day6.java) -18/12/2023
+## [Day7 - Sorting array with a bubble sorting](https://github.com/gabrieledore/DS-and-Algorithms-in-Java/blob/main/Day7.java) -19/12/2023
