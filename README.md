@@ -20,5 +20,7 @@ I will provide each day one or more algorithms, trying to increase the level of 
 ## [Day9 - Insertion sorting](https://github.com/gabrieledore/DS-and-Algorithms-in-Java/blob/main/Day9.java) - 21/12/2023
 ## [Day10 - Merge sorting](https://github.com/gabrieledore/DS-and-Algorithms-in-Java/blob/main/Day10.java) - 22/12/2023
 ## [Day11-12 - Problem of Tower of Hanoi](https://github.com/gabrieledore/DS-and-Algorithms-in-Java/blob/main/Day11.java) - 23/12/2023 + 24/12/2023
+## [Day13 - Search duplicate value in limited array of size n with n-1 values](https://github.com/gabrieledore/DS-and-Algorithms-in-Java/blob/main/Day13.java) - 25/01/2023
+
 
 
