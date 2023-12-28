@@ -29,8 +29,14 @@ public class Day15 {
 
 
     private static void inPlaceMergeTwoSortedArrays(int[] arr1, int[] arr2){
+        //sort two arrays
         Arrays.sort(arr1);
-        Arrays.sort(arr2);
+        Arrays.sort(arr1);
+        //creat a count variable to keep track of the numbers checked in total
+        // 2. find the minimum value between two arrays and put it at first position and switch if necessary
+        // repeated the pass above but from position two of the first array
+        // when there is no values in the first array, passage 2 for just the second array
+
         
 
     }
