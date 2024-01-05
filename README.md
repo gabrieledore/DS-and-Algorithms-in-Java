@@ -22,4 +22,5 @@ I will provide each day one or more algorithms, trying to increase the level of 
 ## [Day11-12 - Problem of Tower of Hanoi](https://github.com/gabrieledore/DS-and-Algorithms-in-Java/blob/main/Day11.java) - 23/12/2023 + 24/12/2023
 ## [Day13 - Search duplicate value in limited array of size n with n-1 values](https://github.com/gabrieledore/DS-and-Algorithms-in-Java/blob/main/Day13.java) - 25/01/2023
 ## [Day14 - Dutch National Flag Problem](https://github.com/gabrieledore/DS-and-Algorithms-in-Java/blob/main/Day14.java) - 26/01/2023
-## [Day15 - In-place merge two sorted arrays](https://github.com/gabrieledore/DS-and-Algorithms-in-Java/blob/main/Day15.java) - 27/01/2023 + 28/12/2023 + 29/12/2023s
+## [Day15 - In-place merge two sorted arrays](https://github.com/gabrieledore/DS-and-Algorithms-in-Java/blob/main/Day15.java) - 27/01/2023 + 28/12/2023 + 29/12/2023
+## [Day16 - Merge two arrays by satisfying given constraints](https://github.com/gabrieledore/DS-and-Algorithms-in-Java/blob/main/Day16.java) - 06/01/2024
